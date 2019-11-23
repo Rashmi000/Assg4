@@ -1,0 +1,56 @@
+.body{
+  margin: 0;
+  padding: 0;
+}
+.bg-img1 {
+  background-image:url(https://mdbootstrap.com/img/Photos/Others/img%20%2848%29.jpg);
+  height: 400px;
+  padding-top:0px;
+  background-size:cover;
+  width:100%;
+}
+h2{
+  padding-top: 20px;
+  text-align: center;
+  color: white;
+}
+ul{
+  text-align: center;
+}
+li {
+  margin-left: 40px;
+  margin-right: 40px;
+  display: inline;
+  text-decoration: none;
+  color: white;
+}
+ul li a{
+  color: white;
+}
+h1{
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+}
+#p1{
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  color: white;
+}
+.btn{
+  margin-top: 20px;
+  margin-left: 45%;
+  border-radius: 50%;
+}
+.bg-img2 {
+  height: 400px;
+  background-color:rgb(205, 213, 221);
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+#sub{
+  padding-top:0px;
+  text-align: center;
+  color: black;
+}
